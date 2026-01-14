@@ -40,12 +40,6 @@ For Database table creation and data migration, I used Entity Framework Core ORM
 
 ![(WebPage) Get a specific User by ID](https://github.com/h-Hasib/Employee-Management-System/blob/main/Screenshots/7.png)
 
-![Edit and Update the user details](https://github.com/h-Hasib/Employee-Management-System/blob/main/Screenshots/8.png)
-
-![Database and webpage view update after Editing](https://github.com/h-Hasib/Employee-Management-System/blob/main/Screenshots/9.png)
-
-![API Integration for GET all the Employee](https://github.com/h-Hasib/Employee-Management-System/blob/main/Screenshots/10.png)
-
 ## Feedback
 
 This is just a basic web system for my learning purpose.
