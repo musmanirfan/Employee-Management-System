@@ -22,8 +22,7 @@ The Basic CRUD operation has performed in order to make this project functional,
 The API of this project follow the RESTful Web Service and HTTP Protocol and documented with the help of Swagger API Documentation Support.
 For Database table creation and data migration, I used Entity Framework Core ORM Tool, And Microsoft SQL Server Management Studio is used for Database Management purpose.
 
-**Front-end Task:** To visualize content on client side (in browser) I've used, component-based front-end framework ANGULAR_14. 
-Specific Components and webpages are created with HTML, Bootstrap and CSS.
+**Front-end Task:** To visualize content on the client side, I built the UI with Next.js (React + TypeScript) using the App Router. The interface is styled with Tailwind CSS and structured into modular pages and components (Home, Employees list, Add Employee, Edit Employee). Data is fetched from the ASP.NET Core REST API via lightweight helpers (lib/api.ts) that use a single environment‑driven base URL (NEXT_PUBLIC_API_BASE_URL). This keeps the frontend decoupled from the server and makes it easy to switch between development and production environments.
 
 ## Demo (Screenshots)
 
@@ -40,12 +39,6 @@ Specific Components and webpages are created with HTML, Bootstrap and CSS.
 ![(API) Get a specific User by ID](https://github.com/h-Hasib/Employee-Management-System/blob/main/Screenshots/6.png)
 
 ![(WebPage) Get a specific User by ID](https://github.com/h-Hasib/Employee-Management-System/blob/main/Screenshots/7.png)
-
-![Edit and Update the user details](https://github.com/h-Hasib/Employee-Management-System/blob/main/Screenshots/8.png)
-
-![Database and webpage view update after Editing](https://github.com/h-Hasib/Employee-Management-System/blob/main/Screenshots/9.png)
-
-![API Integration for GET all the Employee](https://github.com/h-Hasib/Employee-Management-System/blob/main/Screenshots/10.png)
 
 ## Feedback
 
